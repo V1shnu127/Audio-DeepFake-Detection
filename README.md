@@ -1,2 +1,6 @@
 # Audio-DeepFake-Detection
-ADD using CNN and KANLinear
+
+Dataset used: FoR-2SEC <br><br>
+
+Link: <br><br>
+DL Classifier: CNN and KANLinear
